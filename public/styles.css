@@ -1,0 +1,28 @@
+body {
+background-color: rgb(147, 145, 145);
+}
+
+legend {
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    color: rgb(11, 106, 74);
+}
+
+.location {
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    color: rgb(11, 106, 74);
+    padding: 10px;
+}
+
+.container-md {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.temp {
+    font-family: 'Rock Salt', cursive;
+    color: white;
+    padding: 20px;
+}
